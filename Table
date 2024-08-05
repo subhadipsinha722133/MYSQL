@@ -1,0 +1,16 @@
+# MYSQL
+drop database college;
+
+create database block;
+use block;
+
+create table new_table(
+id int primary key,
+name varchar (50),
+age int not null);
+
+insert into new_table values(1,"subhadip",20);
+insert into new_table values(2,"ram",200);
+insert into new_table values(3,"sam",209);
+
+select*from new_table;
