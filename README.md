@@ -2,6 +2,7 @@ Here’s a sample **README.md** for a Python + MySQL project, with clear structu
 
 ---
 
+
 ````markdown
 # 🐍 Python + 🐬 MySQL Project  
 
