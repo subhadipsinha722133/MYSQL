@@ -10,6 +10,7 @@ A simple project demonstrating how to connect Python with MySQL to perform CRUD 
 
 ---
 
+
 ## ✨ Features  
 - 🔗 Connect Python with MySQL database  
 - 📝 Insert records  
